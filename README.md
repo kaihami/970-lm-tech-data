@@ -8,4 +8,5 @@
 - Projeto Final Técnicas de Programação I
 
 Descrição:
-Projetos muito legais desenvolvidos durante o curso
+Projetos muito legais desenvolvidos durante o curso.
+
