@@ -6,4 +6,6 @@
 
 - Calculadora
 - Projeto Final Técnicas de Programação I
-Abobrinha
+
+Descrição:
+Projetos muito legais desenvolvidos durante o curso
